@@ -1,0 +1,9 @@
+name: chess
+version: 0.1.0
+
+authors:
+  - Marcin Henryk Bartkowiak <mhbartkowiak@gmail.com>
+
+crystal: 0.31.1
+
+license: MIT
