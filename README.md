@@ -1,4 +1,4 @@
-# chess [![Build Status](https://travis-ci.org/mhib/chess.svg?branch=master)](https://travis-ci.org/mhib/chess)
+# chess
 A chess library for crystal with [Plain Magic Bitboard](https://www.chessprogramming.org/Magic_Bitboards#Plain) move generation
 
 ## Installation
